@@ -1,2 +1,2 @@
 # testRepo
-i will use this for my practice
+This will be visible to public whoever will access my public page
